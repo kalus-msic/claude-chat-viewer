@@ -1,5 +1,7 @@
 # Claude Chat Viewer
 
+> **Fork note:** This fork adds filtering conversations by user for Claude organization exports. When an org export is loaded, a user filter appears automatically — allowing admins to browse conversations per employee. Personal exports are unaffected. A pull request with this feature has been submitted to the original repository: [osteele/claude-chat-viewer#13](https://github.com/osteele/claude-chat-viewer/pull/13).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.2-61dafb)](https://reactjs.org/)
